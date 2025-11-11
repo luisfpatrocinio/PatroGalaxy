@@ -1,18 +1,22 @@
 # PatroGalaxy: An Embedded Systems Space Shooter for BitDogLab
 
-[![GitHub Stars](https://img.shields.io/github/stars/luisfpatrocinio/PatroGalaxy?style=social)](https://github.com/luisfpatrocinio/PatroGalaxy)  
-[![GitHub Forks](https://img.shields.io/github/forks/luisfpatrocinio/PatroGalaxy?style=social)](https://github.com/luisfpatrocinio/PatroGalaxy)  
-[![GitHub Issues](https://img.shields.io/github/issues/luisfpatrocinio/PatroGalaxy)](https://github.com/luisfpatrocinio/PatroGalaxy/issues)
-
 ## Overview
 
 PatroGalaxy is a classic space shooter game developed specifically for the [BitDogLab](https://github.com/BitDogLab/BitDogLab) embedded systems learning platform. It serves as a practical demonstration of embedded programming techniques using the Raspberry Pi Pico W microcontroller.
 
-See PatroGalaxy in action! Watch the project overview video:
+## Videos
+
+### Quick Gameplay Demo
+
+See PatroGalaxy in action!
 
 [![PatroGalaxy Demo Video](http://img.youtube.com/vi/mwKkf3WDbOc/0.jpg)](https://www.youtube.com/watch?v=mwKkf3WDbOc)
 
-[Watch the overview video on YouTube](https://www.youtube.com/watch?v=mwKkf3WDbOc)
+### Official Project Presentation (MNR 2025)
+
+Watch the full project presentation (in Portuguese), created for the Brazilian National Robotics Exhibition.
+
+[![PatroGalaxy MNR Presentation](http://img.youtube.com/vi/vXHZ5OMD9kg/0.jpg)](https://www.youtube.com/watch?v=vXHZ5OMD9kg)
 
 This project showcases the capabilities of the BitDogLab, including its OLED display, analog stick, action button, and flash memory, within the engaging context of a retro-style arcade game.
 
